@@ -6,5 +6,5 @@ You have read all of Chapter 3 by now. There were many steps to test a developme
 
 ## TODO:
 
-Take screenshots at various points to demonstrate that you have completed the various sections of the assignment. Your repository should be called "First-android-app-\<yourLastName\> and create a directory called 'screenshots'. Place all of your screenshots there and commit/push to GitHub. You can push the code you create as well, but it is not neccessary. 
+Take screenshots at various points to demonstrate that you have completed the various sections of the assignment. Your repository should be called "First-android-app-\<yourLastName\> and create a directory called 'screenshots'. Place all of your screenshots there and commit/push to GitHub. You can push the code you create as well, but it is not necessary. 
 
